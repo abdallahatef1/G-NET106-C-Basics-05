@@ -28,9 +28,17 @@
 
             #region Given int genreNumber = 1;, cast it into a Genre value and print the result.
             //int genreNumber = 1;
-           // Genre genreFromNumber = (Genre)genreNumber;
+            // Genre genreFromNumber = (Genre)genreNumber;
             //Console.WriteLine("genreNumber 1 casts to => " + genreFromNumber);
 
+
+
+            #endregion
+
+            #region Given Genre genre = Genre.Fiction;, convert it into a string using ToString() and print it.
+           // Genre genre = Genre.Fiction;
+           // string genreAsString = genre.ToString();
+           // Console.WriteLine("ToString() = " + genreAsString);
 
 
             #endregion
