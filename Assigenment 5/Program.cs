@@ -1,4 +1,6 @@
-﻿namespace Assigenment_5
+﻿using System.Drawing;
+
+namespace Assigenment_5
 {
     internal class Program
     {
@@ -36,9 +38,17 @@
             #endregion
 
             #region Given Genre genre = Genre.Fiction;, convert it into a string using ToString() and print it.
-           // Genre genre = Genre.Fiction;
-           // string genreAsString = genre.ToString();
-           // Console.WriteLine("ToString() = " + genreAsString);
+            // Genre genre = Genre.Fiction;
+            // string genreAsString = genre.ToString();
+            // Console.WriteLine("ToString() = " + genreAsString);
+
+
+            #endregion
+
+            #region  Given string genreText = "Science";, convert it into a Genre value using Enum.Parse() andprint the result.
+            //string genreText = "Science";
+            //Genre genre = (Genre)Enum.Parse(typeof(Genre), genreText);
+            //Console.WriteLine("Genre = " + genre);
 
 
             #endregion
