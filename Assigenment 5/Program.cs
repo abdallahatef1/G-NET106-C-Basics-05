@@ -26,6 +26,15 @@
 
             #endregion
 
+            #region Given int genreNumber = 1;, cast it into a Genre value and print the result.
+            //int genreNumber = 1;
+           // Genre genreFromNumber = (Genre)genreNumber;
+            //Console.WriteLine("genreNumber 1 casts to => " + genreFromNumber);
+
+
+
+            #endregion
+
 
 
         }
