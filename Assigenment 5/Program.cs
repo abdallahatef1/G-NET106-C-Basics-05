@@ -1,4 +1,5 @@
-﻿using System.Drawing;
+﻿using Microsoft.VisualBasic;
+using System.Drawing;
 
 namespace Assigenment_5
 {
@@ -52,6 +53,24 @@ namespace Assigenment_5
 
 
             #endregion
+
+            #region Given string genreText = "Mystery"; (not a valid Genre value), use Enum.TryParse() to attempt the conversion.Print "Unknown genre" if it fails.
+           // string genreText = "Mystery";
+            //Genre genre;
+            //bool success = Enum.TryParse(genreText, out genre);
+
+           // if (success)
+           // {
+              //  Console.WriteLine("Genre = " + genre);
+           // }
+           // else
+           // {
+            //    Console.WriteLine("Unknown genre");
+           // }
+            #endregion
+
+
+
 
 
 
