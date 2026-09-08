@@ -19,6 +19,12 @@
             //book.Genre = Genre.Science;
             //Console.WriteLine(" Genre = " + book.Genre);
             #endregion
+            #region Using the Genre enum above, print the underlying int value of Genre.Fiction, Genre.NonFiction, and Genre.Science by casting each to int.
+            //Console.WriteLine("Fiction = " + (int)Genre.Fiction);
+            //Console.WriteLine("NonFiction = " + (int)Genre.NonFiction);
+            //Console.WriteLine("Science = " + (int)Genre.Science);
+
+            #endregion
 
 
 
