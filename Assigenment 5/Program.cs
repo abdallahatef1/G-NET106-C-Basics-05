@@ -15,6 +15,10 @@
             //Console.WriteLine("Title = " + book.Title);
 
             #endregion
+            #region task 4
+            //book.Genre = Genre.Science;
+            //Console.WriteLine(" Genre = " + book.Genre);
+            #endregion
 
 
 

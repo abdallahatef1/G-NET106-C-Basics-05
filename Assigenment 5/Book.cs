@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Text;
 
 namespace Assigenment_5
@@ -23,6 +24,13 @@ namespace Assigenment_5
 
 
         #endregion
+
+        #region Declare an enum Genre { Fiction, NonFiction, Science }. Add a Genre property to Book, assign it Genre.Science, and print it.
+        public Genre Genre { get; set; }
+
+        #endregion
+
+
 
 
 
