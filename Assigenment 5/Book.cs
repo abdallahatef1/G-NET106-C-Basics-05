@@ -17,6 +17,13 @@ namespace Assigenment_5
 
         #endregion
 
+        #region Add a public string Title; field to Book. Set it and print it from Main.
+        public string Title;
+
+
+
+        #endregion
+
 
 
     }

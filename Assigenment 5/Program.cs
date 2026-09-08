@@ -7,7 +7,12 @@
             Book book = new Book();
 
             #region task 2
-           // Console.WriteLine("copiesInStock = " + book.copiesInStock); 
+            // Console.WriteLine("copiesInStock = " + book.copiesInStock); 
+
+            #endregion
+            #region task 3
+            //book.Title = "Clean Code";
+            //Console.WriteLine("Title = " + book.Title);
 
             #endregion
 
